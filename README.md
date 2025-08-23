@@ -1,2 +1,2 @@
 # Lab de Experimentacao de Software 1
-Características de repositórios populares
+Repositório de lab para utilização de api do github
